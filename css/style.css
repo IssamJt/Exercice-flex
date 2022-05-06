@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    display: flex;
+    height: 88px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 0 10px;
+
+
+}
+.items{
+    background-color: brown;
+    padding: 2%;
+    width: 100%;
+    text-align: center;
+}
